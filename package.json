@@ -3,6 +3,12 @@
   "version": "1.0.0-0",
   "description": "Libraries.io manifest parser for filesystems",
   "main": "librarian.js",
+  "keywords": [
+    "dependency",
+    "manifest",
+    "parsers",
+    "libraries.io"
+  ],
   "bin": {
     "librarian": "bin/cli.js"
   },
@@ -14,7 +20,7 @@
     "url": "git+https://github.com/librariesio/librarian-cli.git"
   },
   "author": "Ben Gourley",
-  "license": "ISC",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/librariesio/librarian-cli/issues"
   },
