@@ -13,7 +13,7 @@ require('../librarian')(dir, (err, data) => {
     process.stderr.write('\n')
     process.exit(1)
   }
-  process.stdout.write(JSON.stringify(data, null, 2))
+  process.stdout.write(JSON.stringify(data, null, argv.pretty ? 2 : undefined))
   process.stdout.write('\n')
 })
 
