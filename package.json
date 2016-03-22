@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bengourley/librarian-cli.git"
+    "url": "git+https://github.com/librariesio/librarian-cli.git"
   },
   "author": "Ben Gourley",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bengourley/librarian-cli/issues"
+    "url": "https://github.com/librariesio/librarian-cli/issues"
   },
-  "homepage": "https://github.com/bengourley/librarian-cli#readme",
+  "homepage": "https://github.com/librariesio/librarian-cli#readme",
   "dependencies": {
     "async": "^1.5.2",
     "is-promise": "^2.1.0",
-    "librarian-parsers": "^1.0.1",
+    "librarian-parsers": "^1.1.0",
     "minimist": "^1.2.0"
   },
   "devDependencies": {
