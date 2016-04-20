@@ -1,6 +1,6 @@
 {
   "name": "librarian-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Libraries.io manifest parser for filesystems",
   "main": "librarian.js",
   "keywords": [
