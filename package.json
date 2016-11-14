@@ -28,7 +28,7 @@
   "dependencies": {
     "async": "^2.0.0",
     "is-promise": "^2.1.0",
-    "librarian-parsers": "^1.4.0",
+    "librarian-parsers": "^2.2.0",
     "minimist": "^1.2.0"
   },
   "devDependencies": {
