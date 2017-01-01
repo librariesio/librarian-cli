@@ -51,4 +51,4 @@ Report Issues/Feature requests on [GitHub Issues](http://github.com/librariesio/
 
 ## License
 
-Copyright (c) 2016 Ben Gourley, Licensed under GNU Affero General Public License. See [LICENSE](https://github.com/librariesio/librarian-cli/blob/master/LICENSE.txt) for details.
+Copyright (c) 2017 Ben Gourley, Licensed under GNU Affero General Public License. See [LICENSE](https://github.com/librariesio/librarian-cli/blob/master/LICENSE.txt) for details.
