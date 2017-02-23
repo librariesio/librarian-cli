@@ -5,6 +5,8 @@
 [![devDependency Status](https://david-dm.org/librariesio/librarian-cli/dev-status.svg?theme=shields.io)](https://david-dm.org/librariesio/librarian-cli#info=devDependencies)
 [![Gitter chat](http://img.shields.io/badge/gitter-librariesio/support-brightgreen.svg)](https://gitter.im/librariesio/support)
 
+:warning: This repository has been replaced with [Bibliothecary](https://github.com/librariesio/bibliothecary) and will not be updated anymore :warning:
+
 File based dependency manifest parsing for [Libraries.io](https://libraries.io)
 
 ## Install
